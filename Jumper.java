@@ -1,4 +1,3 @@
-
 /**
  * The Jumper bug moves forward two spaces when it moves. It can move over rocks and flowers directly in front of it. It does not leave anything behind when it jumps.
  * 
@@ -9,7 +8,8 @@
  * 
  * @version 1
  */
-public class Jumper
+
+public class Jumper extends GridWorld_Classes.Bug
 {
     
 }

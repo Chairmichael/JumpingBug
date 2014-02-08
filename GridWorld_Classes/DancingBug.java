@@ -1,3 +1,5 @@
+package GridWorld_Classes;
+
 import info.gridworld.actor.Bug;
 
 public class DancingBug extends Bug
