@@ -6,7 +6,7 @@
  * @author Chewy
  * @author Jason Hanselman
  * 
- * @version 1
+ * @version 2
  */
 
 public class Jumper extends GridWorld_Classes.Bug
